@@ -9,7 +9,7 @@ Khorshid Calendar is a Persian Calendar application that displays the current Pe
 - 🔧 Lightweight and easy to use
 
 ## 🔹 Installation
-1️⃣ **Download the installer:** [KhorshidCalendarInstaller.exe](https://github.com/ashkan261/khorshid_calender /releases)  
+1️⃣ **Download the installer:** [KhorshidCalendarInstaller.exe](https://github.com/ashkan261/khorshid_calender/releases)  
 2️⃣ **Run the installer and follow the setup instructions.**  
 3️⃣ **After installation, the calendar icon will appear in the System Tray.**  
 4️⃣ **Reboot your PC to enable auto-start with Windows.**  
