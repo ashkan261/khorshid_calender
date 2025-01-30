@@ -1,3 +1,5 @@
+![Khorshid Calendar](https://github.com/user-attachments/assets/883071b6-c071-4a4c-b454-1c5851945b06)
+
 # 📆 Khorshid Calendar
 
 Khorshid Calendar is a Persian Calendar application that displays the current Persian date in the Windows System Tray.
